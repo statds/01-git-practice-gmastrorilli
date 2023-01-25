@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "quarto.html",
+    "href": "quarto.html",
+    "title": "3  Reproducibile Data Science with Quarto",
+    "section": "",
+    "text": "Data science projects should be reproducible to be trustworthy. Dynamic documents facilitate reproducibility. Quarto is an open-source dynamic document preparation system, ideal for scientific and technical publishing. From the official websites, Quarto can be used to:\n\nCreate dynamic content with Python, R, Julia, and Observable.\nAuthor documents as plain text markdown or Jupyter notebooks.\nPublish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.\nAuthor with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.\n\nOf course, Quarto can be used to write homework, exams, and reports in this course,.\nTo get started, see documentation at Quarto."
+  }
+]
